@@ -1,7 +1,7 @@
 # AMO15310-
 ![AMO15310](https://github.com/AMO15310/AMO15310/blob/main/banner/AMO15310-2021.gif)
 I'm Amos wachira
- currently in taking B.Tech in Medical engineering at Kirinyaga university <br>
+ currently  taking B.Tech  Medical engineering at Kirinyaga university <br>
 
 
  <img src="./image1.jpeg"/>
