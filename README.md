@@ -7,11 +7,15 @@ As a biomedical engineer, I possess a strong foundation in problem-solving and a
 
 In the realm of software engineering, I have honed my skills in several programming languages and tools, equipping me to translate innovative ideas into fully functional and scalable software.
 
-<tr>Front-end: `JavaScript`, `TypeScript`, `React`, `CSS`, `Tailwind` `CSS`, `Bootstrap`, `HTML5`, `SASS`<tr>
-<tr>Back-end: `Node.js`, `Python`, `Flask`, `MySQL`<tr>
-<tr>Cloud: `Firebase`<tr>
-<tr>Hardware: `Arduino`, `Fritzing`<tr>
-<tr>Learning: `SvelteKit`<tr>
+Front-end: `JavaScript`, `TypeScript`, `React`, `CSS`, `Tailwind` `CSS`, `Bootstrap`, `HTML5`, `SASS` 
+<br>
+Back-end: `Node.js`, `Python`, `Flask`, `MySQL`
+<br>
+Cloud: `Firebase`
+<br>
+Hardware: `Arduino`, `Fritzing`
+<br>
+Learning: `SvelteKit`
 
 
 Collaboration and the open-source spirit are at the core of my values. My GitHub is a platform where I actively engage with the developer community, sharing knowledge, learning from others, and collectively contributing to technological advancements.
