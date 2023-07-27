@@ -1,4 +1,5 @@
 ###👋 <b>GREETINGS:<b>
+<br>
 Greetings! My name is Amos Wachira, and I am an enthusiastic biomedical engineer with a passion for software engineering(Full-stack-dev). My driving force is the desire to leverage cutting-edge technology to create impactful solutions that can revolutionize lives worldwide.
 
 As a biomedical engineer, I possess a strong foundation in problem-solving and a meticulous approach to addressing healthcare challenges. My expertise encompasses a wide range of medical devices, diagnostics, and various healthcare technologies, inspiring me to bridge the gap between medicine and the digital realm.
