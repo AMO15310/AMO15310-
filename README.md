@@ -30,4 +30,4 @@ Collaboration and the open-source spirit are at the core of my values. My GitHub
   </tr>   
   </table>
 </center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&duration=5002&pause=1000&width=530&lines=Let's+join+forces+and+shape+a++healthier+and+technologically+advanced+world.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&duration=5002&pause=1000&width=500&lines=Let's+join+forces+and+shape+a++healthier+and+technologically+advanced+world.)](https://git.io/typing-svg)
