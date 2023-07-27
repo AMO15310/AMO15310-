@@ -1,5 +1,5 @@
 
-Greetings! My name is Amos Wachira, and I am an enthusiastic biomedical engineer with a passion for software engineering. My driving force is the desire to leverage cutting-edge technology to create impactful solutions that can revolutionize lives worldwide.
+Greetings! My name is Amos Wachira, and I am an enthusiastic biomedical engineer with a passion for software engineering(Full-stack-dev). My driving force is the desire to leverage cutting-edge technology to create impactful solutions that can revolutionize lives worldwide.
 
 As a biomedical engineer, I possess a strong foundation in problem-solving and a meticulous approach to addressing healthcare challenges. My expertise encompasses a wide range of medical devices, diagnostics, and various healthcare technologies, inspiring me to bridge the gap between medicine and the digital realm.
 
@@ -7,11 +7,11 @@ As a biomedical engineer, I possess a strong foundation in problem-solving and a
 
 In the realm of software engineering, I have honed my skills in several programming languages and tools, equipping me to translate innovative ideas into fully functional and scalable software.
 
-Front-end: JavaScript, TypeScript, React, CSS, Tailwind CSS, Bootstrap, HTML5, CSS, SASS
-Back-end: Node.js, Python, Flask, MySQL
-Cloud: Firebase
-Hardware: Arduino, Fritzing
-Learning: SvelteKit
+<tr>Front-end: `JavaScript`, `TypeScript`, `React`, `CSS`, `Tailwind` `CSS`, `Bootstrap`, `HTML5`, `SASS`<tr>
+<tr>Back-end: `Node.js`, `Python`, `Flask`, `MySQL`<tr>
+<tr>Cloud: `Firebase`<tr>
+<tr>Hardware: `Arduino`, `Fritzing`<tr>
+<tr>Learning: `SvelteKit`<tr>
 
 
 Collaboration and the open-source spirit are at the core of my values. My GitHub is a platform where I actively engage with the developer community, sharing knowledge, learning from others, and collectively contributing to technological advancements.
