@@ -8,7 +8,7 @@ As a biomedical engineer, I possess a strong foundation in problem-solving and a
 
 In the realm of software engineering, I have honed my skills in several programming languages and tools, equipping me to translate innovative ideas into fully functional and scalable software.
 
-Front-end: `JavaScript`, `TypeScript`, `React`, `CSS`, `Tailwind` `CSS`, `Bootstrap`, `HTML5`, `SASS` 
+Front-end: `JavaScript`, `TypeScript`, `React`, `CSS`, `Tailwind` `CSS`, `Bootstrap`, `HTML5`, `SASS` ,`Nextjs`
 <br>
 Back-end: `Node.js`, `Python`, `Flask`, `MySQL`
 <br>
