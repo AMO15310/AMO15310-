@@ -24,7 +24,7 @@ Collaboration and the open-source spirit are at the core of my values. My GitHub
 <center>
   <table>
   <tr>
-      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=AMO15310&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img  align="left" src="https://github-readme-stats.vercel.app/api?username=AMO15310&count_private=true&show_icons=true&theme=gotham&layout=compact&rank_icon=github" /></td>
       <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=AMO15310&theme=dark" /></td>    
      
   </tr>   
