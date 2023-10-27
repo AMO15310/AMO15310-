@@ -1,4 +1,3 @@
-<!-- markdownlint-disable MD033 MD041 -->
 
 ### 👋 GREETINGS:
 
@@ -32,7 +31,7 @@ Collaboration and the open-source spirit are at the core of my values. My GitHub
      
   </tr>   
   </table>
-  ```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
+
 </center>
+
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=258f76&width=435&lines=Thank+you+for+viewing+my+profile)](https://git.io/typing-svg)
