@@ -29,4 +29,5 @@ Collaboration and the open-source spirit are at the core of my values. My GitHub
      
   </tr>   
   </table>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 </center>
