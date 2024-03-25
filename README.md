@@ -14,11 +14,11 @@ Front-end: `JavaScript`, `TypeScript`, `React`, `CSS`, `Tailwind` `CSS`, `Bootst
 <br>
 Back-end: `Node.js`, `Python`, `Flask`, `MySQL`
 <br>
-Cloud: `Firebase`
+Cloud: `Firebase`, `Appwrite`, `AWS`
 <br>
 Hardware: `Arduino`, `Fritzing`
 <br>
-Learning: `SvelteKit`
+Learning: `SvelteKit`, `React Native`
 
 
 Collaboration and the open-source spirit are at the core of my values. My GitHub is a platform where I actively engage with the developer community, sharing knowledge, learning from others, and collectively contributing to technological advancements.
