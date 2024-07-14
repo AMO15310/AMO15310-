@@ -42,7 +42,7 @@ Feel free to reach out if you want to collaborate on projects, have any question
 
 ### ⚡ FUN FACT:
 
-## Did you know that the first computer bug was an actual bug? In 1947, computer scientist Grace Hopper and her team found a moth trapped in a relay of the Harvard Mark II computer. They recorded the incident in their logbook, calling it the "first actual case of bug being found." This is where the term "debugging" originated! 🐛
+Did you know that the first computer bug was an actual bug? In 1947, computer scientist Grace Hopper and her team found a moth trapped in a relay of the Harvard Mark II computer. They recorded the incident in their logbook, calling it the "first actual case of bug being found." This is where the term "debugging" originated! 🐛
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=258f76&width=435&lines=Thanks+for+checking+out+my+profile!)](https://git.io/typing-svg)
 
