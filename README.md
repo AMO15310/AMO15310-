@@ -1,7 +1,3 @@
-Absolutely, Amos! Here’s an alternative way to display your skills, using icons and a more structured format:
-
----
-
 ## <img src="./image.png" alt="Welcome Banner" style="width:100%; height:auto; border-radius:10px;"/>
 
 ### 💻 SKILLS:
