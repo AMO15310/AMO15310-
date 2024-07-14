@@ -1,6 +1,6 @@
 ### 👋 GREETINGS:
 
-<img src="./image2.png" alt="Welcome Banner" style="width:100%; height:50%; border-radius:10px;"/>
+<img src="./image.png" alt="Welcome Banner" style="width:100%; height:auto; border-radius:10px;"/>
 
 ### 💻 SKILLS:
 
