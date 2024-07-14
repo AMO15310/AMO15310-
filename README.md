@@ -55,8 +55,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=CodeSpider2&count_private=true&show_icons=true&theme=gotham&layout=compact&rank_icon=github" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSpider2&theme=dark" alt="GitHub Streak"/></td>    
+      <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=ByteSurgeonAmos&count_private=true&show_icons=true&theme=gotham&layout=compact&rank_icon=github" alt="GitHub Stats"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteSurgeonAmos&theme=dark" alt="GitHub Streak"/></td>    
     </tr>
   </table>
 </div>
