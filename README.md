@@ -1,4 +1,3 @@
-## <img src="./image.png" alt="Welcome Banner" style="width:100%; height:auto; border-radius:10px;"/>
 
 ## Skills
 
